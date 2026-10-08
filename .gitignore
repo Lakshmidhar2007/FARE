@@ -1,0 +1,24 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# FARE generated data
+backend/data/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
