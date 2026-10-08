@@ -1,24 +1,10 @@
-# Python
 backend/venv/
-__pycache__/
-*.pyc
-
-# Environment variables / secrets
-.env
-.env.*
-
-# Node
+backend/data/
 frontend/node_modules/
 frontend/dist/
-
-# FARE generated data
-backend/data/
-data/
-
-# IDE
+__pycache__/
+*.pyc
+.env
+.env.*
 .vscode/
 .idea/
-
-# OS
-.DS_Store
-Thumbs.db
